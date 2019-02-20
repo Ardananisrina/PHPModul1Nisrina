@@ -1,7 +1,13 @@
 # PHPModul1Nisrina
+#Latihan 1
 ![alt text](https://github.com/Ardananisrina/PHPModul1Nisrina/blob/master/Latihan1.png?raw=true)
+#Latihan 2
 ![alt text](https://github.com/Ardananisrina/PHPModul1Nisrina/blob/master/Latihan2.png?raw=true)
+#Latihan 3
 ![alt text](https://github.com/Ardananisrina/PHPModul1Nisrina/blob/master/Latihan3.png?raw=true)
+#Latihan 4
 ![alt text](https://github.com/Ardananisrina/PHPModul1Nisrina/blob/master/Latihan4.png?raw=true)
+#Latihan 5
 ![alt text](https://github.com/Ardananisrina/PHPModul1Nisrina/blob/master/Latihan5.png?raw=true)
+#Variabel Hasil
 ![alt text](https://github.com/Ardananisrina/PHPModul1Nisrina/blob/master/variabel_hasil.png?raw=true)
